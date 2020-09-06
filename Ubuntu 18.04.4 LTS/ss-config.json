@@ -1,0 +1,11 @@
+{
+    "server":"127.0.0.1",
+    "server_port":8388,
+    "local_port":1080,
+    "password":"UkYomElLdiW7iUxb6EDZDd5S_Me05_aN",
+    "timeout":60,
+    "nameserver": "8.8.8.8",
+    "method":"aes-128-gcm",
+    "plugin":"v2ray-plugin",
+    "plugin_opts":"server;host=henchat.ml;path=/u89pqm2kctsvc1g9"
+}
