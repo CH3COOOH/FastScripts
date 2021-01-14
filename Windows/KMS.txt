@@ -1,0 +1,4 @@
+slmgr /ipk <serial_number>
+slmgr /skms <kms_server>
+slmgr /ato
+slmgr -dlv
