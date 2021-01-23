@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\VMware\VMware Workstation\vmware.exe" -x "D:\Documents\Virtual Machines\HOTARU_WIN10x64\HOTARU_WIN10x64.vmx"
